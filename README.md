@@ -1,5 +1,4 @@
-# GROEP-2-PROG
-Miniproject
+# Project NS-ReisInformatie
 Applicatie opstarten via terminal:
 
 je wilt Flask geconfigureerd hebben en de modules requests en xmltodict geinstalleerd hebben.
