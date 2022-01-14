@@ -1,50 +1,50 @@
-# Project NS-ReisInformatie
-Applicatie opstarten via terminal:
+# NS Travel Information with API Connection
+Start application via terminal:
 
-je wilt Flask geconfigureerd hebben en de modules requests en xmltodict geinstalleerd hebben.
+you want to have Flask configured and the modules requests and xmltodict installed.
 
-1. Terminal openen
+1. Open terminal
 
-2. CD naar ../proginterface
+2. CD to ../prog interface
 
 3. 'python app.py'
 
-4. In je browser naar: 'http://127.0.0.1:5000/'
+4. In your browser to: 'http://127.0.0.1:5000/'
 
 
 
-Applicatie opstarten via pycharm:
+Start application via pycharm:
 
-je wilt Flask geconfigureerd hebben en de modules requests en xmltodict geinstalleerd hebben.
- Als alles is geinstalleerd kun je dit overslaan.
-omdit te doen in pycharm ga je naar
+you want to have Flask configured and the modules requests and xmltodict installed.
+ Once everything is installed, you can skip this.
+to do this in pycharm go to
 1. settings
-2. je project
-3. project interpreter 
-4. dan klik je aan de rechterkant van het scherm op het plusje.
-5. dan zoek je naar requests, selecteert hem dan en dan druk je op install packages.
-6. doe dit ook voor xmltodic en flask.
+2. your project
+3. project interpreter
+4. then click on the plus sign on the right side of the screen.
+5. then you search for requests, then select it and then you press install packages.
+6. do the same for xmltodic and flask.
 
-hierna kun je het script opstarten
-7. daarna klik je links van het start pijltje bovenaan het scherm en selecteerd ns3flask.
-8. Pycharm opstarten
+after that you can start the script
+7. then click to the left of the start arrow at the top of the screen and select ns3flask.
+8. Launch pycharm
 
-9. Run knopje drukken
+9. Press Run button
 
-10. In je browser naar: 'http://127.0.0.1:5000/'
+10. In your browser go to: 'http://127.0.0.1:5000/'
 
 
 
-Uitleg Applicatie:
+Explanation Application:
 
-1. Op de homepagina zie je 4 knopjes, hiervan werken er maar 1 namelijk: 'Reisplanner'.
+1. On the homepage you see 4 buttons, of which only 1 works: 'Travel planner'.
 
-De andere knopjes zijn er als opvulling voor de pagina.
+The other buttons are there to fill the page.
 
-2. Als je op een van de twee werkende knopjes klikt, ga je naar de pagina '/reisplanner'
+2. If you click on one of the two working buttons, you go to the page '/travel planner'
 
-3. Op deze pagina kan je de vertrektijden opvragen per station. Dit doe je door op een station te klikken links in het lijstje. 
-Er is ook een zoekbar die gebruikt kan worden voor het zoeken van een specifieke station.
+3. On this page you can request the departure times per station. You do this by clicking on a station on the left of the list.
+There is also a search bar that can be used to search for a specific station.
 
-hier is een videoguide 
+here is a video guide
 https://youtu.be/L8Ii5lNcnCs
